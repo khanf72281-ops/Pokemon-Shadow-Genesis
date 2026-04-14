@@ -1,0 +1,16 @@
+{
+  "universe_2_pokedex": [
+    {
+      "name": "Yoddhar",
+      "type": ["Steel", "Fighting"],
+      "signature_move": "Vajra Smash",
+      "description": "The guardian of the Jaipur Fort. Its mace can crush diamonds."
+    },
+    {
+      "name": "Naag-Void",
+      "type": ["Poison", "Shadow"],
+      "signature_move": "Toxic Eclipse",
+      "description": "A shadow serpent that haunts the ghats of Varanasi."
+    }
+  ]
+}
