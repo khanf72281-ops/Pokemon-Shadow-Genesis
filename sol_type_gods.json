@@ -1,0 +1,11 @@
+{
+  "sol_type_restriction": {
+    "immune_to": ["Normal", "Fighting", "Flying", "Poison"],
+    "sol_legends": [
+      "Eternal Void", "Chronos-Rex", "Solaris-Fin", 
+      "Lunar-Fang", "Astra-Thunder", "Terra-Mammoth", 
+      "Phantom-Eclipse", "Aero-Storm", "Nebula-Drake"
+    ],
+    "bypass_condition": "Rayto_Phenomenon_Active"
+  }
+}
