@@ -1,6 +1,6 @@
 # Pokemon Shadow Genesis: Multiverse War
 
-**Lead Developer:** [Your Name] (Age: 16)
+**Lead Developer:** [Farhan Hussain] (Age: 16)
 **Core Engine:** Mobile-Optimized GBA Style
 
 ### Key Features:
