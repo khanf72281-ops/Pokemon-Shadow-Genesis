@@ -1,0 +1,13 @@
+{
+  "game_name": "Pokemon Shadow Genesis",
+  "developer_age": 16,
+  "universes": {
+    "universe_1": "Official GBA Regions (Kanto to Paldea)",
+    "universe_2": "Bharat Region (Second Universe)"
+  },
+  "mechanics": {
+    "move_slots": 8,
+    "max_stats": 999,
+    "god_damage": 500
+  },
+  "starter": "Tigris (Fire Tiger)"
