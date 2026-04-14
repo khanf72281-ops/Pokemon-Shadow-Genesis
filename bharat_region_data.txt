@@ -1,0 +1,12 @@
+REGION NAME: Bharat (Universe 2)
+CENTRAL HUB: Madhya Pradesh (MP)
+KEY CITY: Tarana, Ujjain District
+LANDMARK: Temporal Observatory (The Portal to Universe 1)
+
+GYMS:
+1. Jaipur (Steel Type) - Fort Badge
+2. Satpura/Panchmarhi (Grass Type) - Jungle Badge
+3. Ajmer (Peace Shrine) - Purification Center
+
+STARTER EVOLUTION:
+Tigris -> Flamestripe -> Bengalord (Fire/Steel)
