@@ -1,0 +1,19 @@
+{
+  "universe_2_legends": {
+    "sol_type_enabled": true,
+    "total_count": 10,
+    "list": [
+      "Eternal Void (Void Dragon)",
+      "Chronos-Rex (Temporal Beast)",
+      "Solaris-Fin (Fire Phoenix)",
+      "Lunar-Fang (Ice Wolf)",
+      "Astra-Thunder (Electric Drake)",
+      "Terra-Mammoth (Rock Elephant)",
+      "Phantom-Eclipse (Shadow Shade)",
+      "Aero-Storm (Wind Dragon)",
+      "Nebula-Drake (Cosmic Hydra)",
+      "Maya-Moh (Mirror Illusion)"
+    ],
+    "ability": "Divine Aura (Immune to non-legendary moves)"
+  }
+}
