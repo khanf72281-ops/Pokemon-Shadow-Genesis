@@ -1,0 +1,9 @@
+# Prof. Oak Battle & Rayto Unlock
+def pbOakMasterBattle
+  if pbTrainerBattle(:PROF_OAK, "Oak", "Beta, kya tumne Mew ki adaptability ko dekha hai?", false)
+    $game_switches[OAK_BATTLE_WON] = true
+    $game_switches[RAYTO_PHENO_READY] = true
+    pbReceiveItem(:SYNCHRO_DEVICE)
+    pbDisplay("Oak: Tumne mujhe hara diya... Ab tum Rayto ke kabil ho!")
+  end
+end
