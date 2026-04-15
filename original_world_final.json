@@ -1,0 +1,12 @@
+{
+  "universe_id": 1,
+  "universe_name": "Original World",
+  "status": "LOCKED",
+  "allowed_to_cross": ["MEWTWO", "RAYQUAZA"],
+  "data_management": {
+    "pc_storage": "Universal_PC_Tab_1",
+    "ram_optimization": "High_Priority",
+    "fps_target": 30
+  },
+  "content_summary": "All 1000+ official Pokémon from Gen 1 to Gen 9, including Paradox, Ultra Beasts, and Tapus."
+}
