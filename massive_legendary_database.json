@@ -1,0 +1,12 @@
+{
+  "total_legends_unlocked": 45,
+  "categories": {
+    "light_trio": ["Solgaleo", "Lunala", "Necrozma"],
+    "galar_warriors": ["Zacian", "Zamazenta", "Eternatus"],
+    "kami_trio": ["Landorus", "Thundurus", "Tornadus"],
+    "regi_expansion": ["Regieleki", "Regidrago", "Regigigas"],
+    "swords_of_justice": ["Cobalion", "Terrakion", "Virizion", "Keldeo"]
+  },
+  "global_effect": "All_Legends_Ignore_Basic_Immunities",
+  "rayto_synergy": "Boosts all Mythicals by 1.5x damage"
+}
