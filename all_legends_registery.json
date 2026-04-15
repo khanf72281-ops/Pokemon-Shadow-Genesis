@@ -1,0 +1,10 @@
+{
+  "legacy_legends": {
+    "trio_birds": ["Zapdos", "Articuno", "Moltres"],
+    "trio_beasts": ["Entei", "Raikou", "Suicune"],
+    "weather_lords": ["Groudon", "Kyogre", "Rayquaza"],
+    "space_mythicals": ["Deoxys", "Jirachi", "Celebi"],
+    "status": "Sol_Compatible_Unlocked",
+    "special_buff": "Origin_Aura (Attack +20% in Universe 2)"
+  }
+}
