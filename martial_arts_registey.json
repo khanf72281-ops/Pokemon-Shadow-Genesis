@@ -1,0 +1,8 @@
+{
+  "dojo_legends": {
+    "species": ["Kubfu", "Urshifu_Single", "Urshifu_Rapid"],
+    "world_id": 1,
+    "restriction": "Standard_World_Lock",
+    "special_trait": "Critical_Hit_Mastery"
+  }
+}
